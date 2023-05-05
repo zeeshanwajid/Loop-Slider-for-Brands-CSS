@@ -75,7 +75,7 @@ My First Repo in GitHub
 </div>
 </a>
 <div class="containersa">
-<a href="https://bonusoutdoors.com/pages/brands-page">
+<a href="#">
 <button class="btnof">
 View All Brands
 </button>
